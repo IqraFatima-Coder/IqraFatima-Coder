@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iqra Fatima
 - 👀 I’m interested in Programmming and Web Development 
-- 🌱 I’m currently learning Java 
-- ✨ I’m looking to collaborate on projects in Java
+- 🌱 I’m currently learning Python
+- ✨ I’m looking to collaborate on projects in Python
 - 📫 You can reachout me through my linkedin ID:  linkedin.com/in/iqrafatima666
 <!---   Add a note with subject while sending a connection.
 --->
