@@ -1,6 +1,3 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>🔭 - Strengthening core concepts in **DSA, OS, and Microprocessors**<br><br>🤝 **Looking to Collaborate On**<br>- AI-powered tools (especially **developer productivity / voice interfaces**)  <br>- Real-world **IoT + Embedded Systems projects**  <br>- Open-source projects with clear engineering impact<br><br>🛠️ **Looking for Help With**<br>- Scaling AI systems from prototype → production  <br>- Optimizing **speech recognition + command parsing pipelines**  <br>- Advanced system design and architecture<br><br>🌱 **Currently Learning**<br>- Machine Learning & AI (practical implementation > theory)  <br>- Embedded Systems  <br>- Efficient algorithm design (problem-solving focused)<br><br>💬 **Ask Me About**<br>- Python, C/C++, Java  <br>- Arduino, ESP8266, IoT systems  <br>- Data Structures & Algorithms  <br>- Building structured engineering workflows<br><br>⚡ **Fun Fact**<br>- I prefer **building systems over consuming content** — execution > theory
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/iqrafatima666) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@iqrafatima1717) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iqrafatima1717@gmail.com) 
