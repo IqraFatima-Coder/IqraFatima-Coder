@@ -1,8 +1,27 @@
-- 👋 Hi, I’m Iqra Fatima
-- 📫 You can reachout me through my linkedIn :  linkedin.com/in/iqrafatima666
-<!---   Add a note with subject while sending a connection.
---->
-<!---
-IqraFatima-Coder/IqraFatima-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💫 About Me:
+## 🚀 About Me<br><br>🔭 - Strengthening core concepts in **DSA, OS, and Microprocessors**<br><br>🤝 **Looking to Collaborate On**<br>- AI-powered tools (especially **developer productivity / voice interfaces**)  <br>- Real-world **IoT + Embedded Systems projects**  <br>- Open-source projects with clear engineering impact<br><br>🛠️ **Looking for Help With**<br>- Scaling AI systems from prototype → production  <br>- Optimizing **speech recognition + command parsing pipelines**  <br>- Advanced system design and architecture<br><br>🌱 **Currently Learning**<br>- Machine Learning & AI (practical implementation > theory)  <br>- Embedded Systems  <br>- Efficient algorithm design (problem-solving focused)<br><br>💬 **Ask Me About**<br>- Python, C/C++, Java  <br>- Arduino, ESP8266, IoT systems  <br>- Data Structures & Algorithms  <br>- Building structured engineering workflows<br><br>⚡ **Fun Fact**<br>- I prefer **building systems over consuming content** — execution > theory
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/iqrafatima666) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@iqrafatima1717) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iqrafatima1717@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IqraFatima-Coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IqraFatima-Coder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IqraFatima-Coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IqraFatima-Coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IqraFatima-Coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=IqraFatima-Coder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
